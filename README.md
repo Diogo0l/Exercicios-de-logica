@@ -1,1 +1,1 @@
-# Exercicios-de-logica
+# Exercícios de Lógica usando Google Colab
